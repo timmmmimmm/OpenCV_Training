@@ -1,0 +1,4 @@
+﻿  Virtual_Painter.cpp
+C:\Users\timip\source\repos\OpenCV_Training\Virtual_Painter.cpp(98,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timip\source\repos\OpenCV_Training\Virtual_Painter.cpp(101,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenCV_Training.vcxproj -> C:\Users\timip\source\repos\OpenCV_Training\x64\Debug\OpenCV_Training.exe
